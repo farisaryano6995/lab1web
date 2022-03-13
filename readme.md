@@ -26,7 +26,7 @@
 
 
 * Maka hasilnya akan seperti berikut.
-![struktur](halaman1.jpeg)
+![struktur](halaman1.png)
 
 ## LANGKAH 2
 * Membuat 2 buah paragraf dan atur atribut paragraf (Rata Kiri / Rata Kanan / Rata Tengah / Sama Rata)
@@ -69,7 +69,7 @@ html
 <h3>Menambahkan Gambar</h3>
 
 <!-- menambahkan gambar pada dokumen -->
-<img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
+<img src="logo_upb.jpeg" width="200" title="Logo Univeritas Pelita Bangsa">
 
 
 
